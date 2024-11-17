@@ -1,5 +1,5 @@
 <?php
-// I know it should be on git :)
+// I know it shouldnt be on git :)
 class Database {
     private $host = 's147.cyber-folks.pl';
     private $dbname = 'hosting2verweb_checkout';
